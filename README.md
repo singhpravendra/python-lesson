@@ -41,6 +41,3 @@ This mini project is a guided tour of core Python concepts. Each lesson contains
 > - For API client: `python3 -m pip install requests`
 > - For Flask: `python3 -m pip install flask`
 > - For FastAPI: `python3 -m pip install fastapi uvicorn`
-
-Feel free to edit or extend any file; breaking things is part of learning!
-
